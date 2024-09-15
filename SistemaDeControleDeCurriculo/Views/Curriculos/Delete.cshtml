@@ -1,0 +1,35 @@
+﻿@model CurriculoMVC.Models.Curriculo
+
+@{
+    ViewData["Title"] = "Excluir Currículo";
+    Layout = "_Layout";
+
+}
+
+<h1>Excluir Currículo</h1>
+
+<h3>Você tem certeza que deseja excluir este currículo?</h3>
+<div>
+    <h4>Currículo</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Nome
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Nome
+        </dd>
+        <dt class="col-sm-2">
+            CPF
+        </dt>
+        <dd class="col-sm-10">
+            @Model.CPF
+        </dd>
+    </dl>
+
+    <form asp-action="DeleteConfirmed">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Excluir" class="btn btn-danger" /> |
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </form>
+</div>

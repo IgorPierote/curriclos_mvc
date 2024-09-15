@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|c:\\users\\piero\\desktop\\workspace\\c#\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\views\\curriculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|solutionrelative:sistemadecontroledecurriculo\\views\\curriculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|c:\\users\\piero\\desktop\\workspace\\c#\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|solutionrelative:sistemadecontroledecurriculo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|c:\\users\\piero\\desktop\\workspace\\c#\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|solutionrelative:sistemadecontroledecurriculo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|c:\\users\\piero\\desktop\\workspace\\c#\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\views\\curriculos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|solutionrelative:sistemadecontroledecurriculo\\views\\curriculos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|c:\\users\\piero\\desktop\\workspace\\c#\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\views\\curriculos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|solutionrelative:sistemadecontroledecurriculo\\views\\curriculos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|c:\\users\\piero\\desktop\\workspace\\c#\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\views\\curriculos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|solutionrelative:sistemadecontroledecurriculo\\views\\curriculos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|c:\\users\\piero\\desktop\\workspace\\c#\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|solutionrelative:sistemadecontroledecurriculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|c:\\users\\piero\\desktop\\workspace\\c#\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\controllers\\curriculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|solutionrelative:sistemadecontroledecurriculo\\controllers\\curriculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|c:\\users\\piero\\desktop\\workspace\\c#\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\views\\curriculos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|solutionrelative:sistemadecontroledecurriculo\\views\\curriculos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|c:\\users\\piero\\desktop\\workspace\\c#\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\sistemadecontroledecurriculo\\models\\curriculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8267A027-28D3-4B8A-B2DE-FB5575C97442}|SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo.csproj|solutionrelative:sistemadecontroledecurriculo\\models\\curriculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaDeControleDeCurriculo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\appsettings.json",
+              "RelativeToolTip": "SistemaDeControleDeCurriculo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-15T19:08:50.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SistemaDeControleDeCurriculo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SistemaDeControleDeCurriculo\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-15T19:08:45.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\Views\\Curriculos\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeControleDeCurriculo\\Views\\Curriculos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\Views\\Curriculos\\Index.cshtml",
+              "RelativeToolTip": "SistemaDeControleDeCurriculo\\Views\\Curriculos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T19:05:49.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\Views\\Curriculos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeControleDeCurriculo\\Views\\Curriculos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\Views\\Curriculos\\Edit.cshtml",
+              "RelativeToolTip": "SistemaDeControleDeCurriculo\\Views\\Curriculos\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwEoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T19:05:22.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\Views\\Curriculos\\Details.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeControleDeCurriculo\\Views\\Curriculos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\Views\\Curriculos\\Details.cshtml",
+              "RelativeToolTip": "SistemaDeControleDeCurriculo\\Views\\Curriculos\\Details.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwEgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T19:04:43.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\Views\\Curriculos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeControleDeCurriculo\\Views\\Curriculos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\Views\\Curriculos\\Delete.cshtml",
+              "RelativeToolTip": "SistemaDeControleDeCurriculo\\Views\\Curriculos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T19:04:16.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurriculosController.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\Controllers\\CurriculosController.cs",
+              "RelativeDocumentMoniker": "SistemaDeControleDeCurriculo\\Controllers\\CurriculosController.cs",
+              "ToolTip": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\Controllers\\CurriculosController.cs",
+              "RelativeToolTip": "SistemaDeControleDeCurriculo\\Controllers\\CurriculosController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T20:27:32.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\Views\\Curriculos\\Create.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeControleDeCurriculo\\Views\\Curriculos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\Views\\Curriculos\\Create.cshtml",
+              "RelativeToolTip": "SistemaDeControleDeCurriculo\\Views\\Curriculos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T20:26:04.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Curriculo.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\Models\\Curriculo.cs",
+              "RelativeDocumentMoniker": "SistemaDeControleDeCurriculo\\Models\\Curriculo.cs",
+              "ToolTip": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\Models\\Curriculo.cs",
+              "RelativeToolTip": "SistemaDeControleDeCurriculo\\Models\\Curriculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T20:23:09.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaDeControleDeCurriculo\\Program.cs",
+              "ToolTip": "C:\\Users\\Piero\\Desktop\\Workspace\\C#\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\SistemaDeControleDeCurriculo\\Program.cs",
+              "RelativeToolTip": "SistemaDeControleDeCurriculo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:40:17.143Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

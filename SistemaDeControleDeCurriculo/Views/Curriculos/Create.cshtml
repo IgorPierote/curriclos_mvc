@@ -1,0 +1,73 @@
+﻿@model CurriculoMVC.Models.Curriculo
+
+@{
+    ViewData["Title"] = "Incluir Novo Currículo";
+}
+
+<h1>Incluir Novo Currículo</h1>
+
+<h4>Currículo</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div class="form-group">
+                <label asp-for="Nome" class="control-label"></label>
+                <input asp-for="Nome" class="form-control" />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CPF" class="control-label"></label>
+                <input asp-for="CPF" class="form-control" />
+                <span asp-validation-for="CPF" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Endereco" class="control-label"></label>
+                <input asp-for="Endereco" class="form-control" />
+                <span asp-validation-for="Endereco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Telefone" class="control-label"></label>
+                <input asp-for="Telefone" class="form-control" />
+                <span asp-validation-for="Telefone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PretensaoSalarial" class="control-label"></label>
+                <input asp-for="PretensaoSalarial" class="form-control" />
+                <span asp-validation-for="PretensaoSalarial" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CargoPretendido" class="control-label"></label>
+                <input asp-for="CargoPretendido" class="form-control" />
+                <span asp-validation-for="CargoPretendido" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FormacaoAcademica" class="control-label"></label>
+                <textarea asp-for="FormacaoAcademica" class="form-control"></textarea>
+                <span asp-validation-for="FormacaoAcademica" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ExperienciasProfissionais" class="control-label"></label>
+                <textarea asp-for="ExperienciasProfissionais" class="form-control"></textarea>
+                <span asp-validation-for="ExperienciasProfissionais" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Idiomas" class="control-label"></label>
+                <textarea asp-for="Idiomas" class="form-control"></textarea>
+                <span asp-validation-for="Idiomas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Voltar à lista</a>
+</div>

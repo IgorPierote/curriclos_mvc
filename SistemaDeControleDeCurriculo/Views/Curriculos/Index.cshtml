@@ -1,0 +1,53 @@
+﻿@model IEnumerable<CurriculoMVC.Models.Curriculo>
+
+@{
+    ViewData["Title"] = "Currículos";
+}
+
+<h1>Currículos</h1>
+
+<p>
+    <a asp-controller="Curriculos" asp-action="Create" class="btn btn-primary">Incluir Novo Currículo</a>
+</p>
+
+@if (Model == null)
+{
+    <p>Carregando currículos...</p>
+}
+else if (!Model.Any())
+{
+    <p>Nenhum currículo encontrado.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>CPF</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Nome</td>
+                    <td>@item.CPF</td>
+                    @if (item.Id != 0)
+                    {
+                        <td>
+                            <a asp-controller="Curriculos" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Alterar</a>
+                            <a asp-controller="Curriculos" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Excluir</a>
+                            <a asp-controller="Curriculos" asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Exibir</a>
+                        </td>
+                    }
+                    else
+                    {
+                        <td>ID inválido</td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+}
